@@ -1,5 +1,5 @@
 <?php
-require "./ZA/index.html";
+require "../ZooArcadia/ZA/index.html";
 
 
 ?>
